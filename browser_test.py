@@ -1,0 +1,7 @@
+print("Open these URLs in your web browser:")
+print("=" * 40)
+print("1. API Root: http://127.0.0.1:8000/api/")
+print("2. Admin: http://127.0.0.1:8000/admin/")
+print("3. Health Check: http://127.0.0.1:8000/health/")
+print("4. Root: http://127.0.0.1:8000/")
+print("\nMake sure the server is running with: python manage.py runserver")
